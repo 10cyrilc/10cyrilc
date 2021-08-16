@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Cyril <img height="40" width="30" src="https://emoji.gg/assets/emoji/5591-discord-developer-badge-shimmer.gif"></h1>
+<h1 align="center">Hi 👋, I'm Cyril <img height="35" width="30" src="https://emoji.gg/assets/emoji/5591-discord-developer-badge-shimmer.gif"></h1>
 
 - 🔭 I’m currently working on my **Python Skills**
 

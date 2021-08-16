@@ -47,7 +47,7 @@
 
 <p align= "center">
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=10cyrilc&theme=react&layout=compact" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=10cyrilc&hide=stars,commits,prs,issues,contribs?count_private=true" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=10cyrilc&hide=prs,issues,contribs?count_private=true&show_icons=true&theme=radical" />
 </p>
 
 <p align="center"><img height="200" src="https://media3.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif?cid=ecf05e47mcpfnqn4srfxgsybnwf8pa11dk6224i5oa7rg275&rid=giphy.gif"></p>

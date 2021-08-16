@@ -23,6 +23,13 @@
 
 <h3 align="center">Languages and Tools:</h3>
 
+<p align= "center">
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=10cyrilc&theme=react&layout=compact&count_private=true&langs_count=8" />&nbsp;
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=10cyrilc&hide=prs,issues,contribs&count_private=true&show_icons=true&theme=react&layout=compact" />
+</p>
+
+<p align="center"><img height="200" src="https://media4.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif?cid=ecf05e47emkq435k569gj5ng7pzzwagv64na18q70narl9fv&rid=giphy.gif"></p>
+
 <p align="center"> 
   <a href="https://www.w3schools.com/html/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
@@ -44,10 +51,3 @@
   </a>
 
 </p>
-
-<p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=10cyrilc&theme=react&layout=compact&count_private=true&langs_count=8" />&nbsp;
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=10cyrilc&hide=prs,issues,contribs&count_private=true&show_icons=true&theme=react&layout=compact" />
-</p>
-
-<p align="center"><img height="200" src="https://media3.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif?cid=ecf05e47mcpfnqn4srfxgsybnwf8pa11dk6224i5oa7rg275&rid=giphy.gif"></p>

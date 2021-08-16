@@ -10,7 +10,7 @@
 
 - ⚡ What I like to do: **Coding**
 
-<img height="50" src="https://media3.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif?cid=ecf05e47mcpfnqn4srfxgsybnwf8pa11dk6224i5oa7rg275&rid=giphy.gif"><p>
+<img height="200" src="https://media3.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif?cid=ecf05e47mcpfnqn4srfxgsybnwf8pa11dk6224i5oa7rg275&rid=giphy.gif"><p>
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">

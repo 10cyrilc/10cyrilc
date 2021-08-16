@@ -9,10 +9,6 @@
 - 📫 How to reach me: **10cyrilc@gmail.com**
 
 - ⚡ What I like to do: **Coding**
-
-
-<h3 align="center">Connect with me:</h3>
-<div align="center">
   
 
 [![image](https://img.shields.io/badge/TELEGRAM-0000FF?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/10cyrilc/)&nbsp;&nbsp;
@@ -28,6 +24,8 @@
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=10cyrilc&hide=prs,issues,contribs&count_private=true&show_icons=true&theme=react&layout=compact" />
 </p>
 
+<h3 align="center">Connect with me:</h3>
+<div align="center">
 <p align="center"><img height="200" src="https://media4.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif?cid=ecf05e47emkq435k569gj5ng7pzzwagv64na18q70narl9fv&rid=giphy.gif"></p>
 
 <p align="center"> 

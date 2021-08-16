@@ -13,9 +13,8 @@
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lauro_brant-1/)
-[![image](https://img.shields.io/twitter/url?label=Follow&style=social&url=https%3A%2F%2Ftwitter.com%2F10cyrilc)]
-[![image](https://img.shields.io/github/followers/10cyrilc?style=social)]
+[![image](https://img.shields.io/badge/TELEGRAM-0000FF?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/10cyrilc/)
+[![image](https://img.shields.io/badge/TWITTER-2cb6e0?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/10cyrilc)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:10cyrilc@gmail.com)
   
 </div>

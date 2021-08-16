@@ -13,7 +13,7 @@
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 
-[![image](https://img.shields.io/badge/TELEGRAM-0000FF?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/10cyrilc/)&nbsp;&nbsp;
+[![image](https://img.shields.io/badge/TELEGRAM-0000FF?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/cyril_c_10/)&nbsp;&nbsp;
 [![image](https://img.shields.io/badge/TWITTER-2cb6e0?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/10cyrilc/)&nbsp;&nbsp;
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:10cyrilc@gmail.com/)&nbsp;&nbsp;
   

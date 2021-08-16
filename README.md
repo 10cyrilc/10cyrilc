@@ -6,8 +6,6 @@
 
 - 👯 I’m looking to collaborate on **Telegram based Projects**
 
-- 📫 How to reach me: **10cyrilc@gmail.com**
-
 - ⚡ What I like to do: **Coding**
  
 <h3 align="center">Connect with me:</h3>

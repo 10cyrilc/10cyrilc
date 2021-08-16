@@ -10,7 +10,6 @@
 
 - ⚡ What I like to do: **Coding**
 
-<p align="center"><img height="200" src="https://media3.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif?cid=ecf05e47mcpfnqn4srfxgsybnwf8pa11dk6224i5oa7rg275&rid=giphy.gif"></p>
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
@@ -48,4 +47,7 @@
 
 <p align= "center">
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=10cyrilc&theme=react&layout=compact" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)" />
 </p>
+
+<p align="center"><img height="200" src="https://media3.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif?cid=ecf05e47mcpfnqn4srfxgsybnwf8pa11dk6224i5oa7rg275&rid=giphy.gif"></p>

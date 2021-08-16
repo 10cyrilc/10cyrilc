@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Cyril <img height="20" width="30" src="https://emoji.gg/assets/emoji/5591-discord-developer-badge-shimmer.gif"></h1>
+<h1 align="center">Hi 👋, I'm Cyril <img height="40" width="30" src="https://emoji.gg/assets/emoji/5591-discord-developer-badge-shimmer.gif"></h1>
 
 - 🔭 I’m currently working on my **Python Skills**
 
@@ -22,7 +22,7 @@
 
 
 <p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=10cyrilc&theme=react&layout=compact&count_private=true&langs_count=8" />&nbsp;
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=10cyrilc&theme=react&layout=compact&count_private=true&langs_count=8" /><br><br><br>
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=10cyrilc&hide=prs,issues,contribs&count_private=true&show_icons=true&theme=react&layout=compact" />
 </p>
 

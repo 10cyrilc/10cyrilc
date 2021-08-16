@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Cyril <img height="20" width="50" src="https://emoji.gg/assets/emoji/5591-discord-developer-badge-shimmer.gif"></h1>
+<h1 align="center">Hi 👋, I'm Cyril <img height="20" width="20" src="https://emoji.gg/assets/emoji/5591-discord-developer-badge-shimmer.gif"></h1>
 
 - 🔭 I’m currently working on my **Python Skills**
 
@@ -10,10 +10,12 @@
 
 - ⚡ What I like to do: **Coding**
 
+<div class="center">
 <img height="200" src="https://media3.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif?cid=ecf05e47mcpfnqn4srfxgsybnwf8pa11dk6224i5oa7rg275&rid=giphy.gif"><p>
-
+</div>
 <h3 align="center">Connect with me:</h3>
 <div align="center">
+  
 
 [![image](https://img.shields.io/badge/TELEGRAM-0000FF?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/10cyrilc/)&nbsp;&nbsp;
 [![image](https://img.shields.io/badge/TWITTER-2cb6e0?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/10cyrilc/)&nbsp;&nbsp;

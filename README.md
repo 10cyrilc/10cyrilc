@@ -10,6 +10,8 @@
 
 - ⚡ What I like to do: **Coding**
 
+<iframe src="https://giphy.com/embed/fwbZnTftCXVocKzfxR" width="480" height="340" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/PLCnext-plcnext-phoenixcontact-plcnexttechnology-fwbZnTftCXVocKzfxR">via GIPHY</a></p>
+
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 

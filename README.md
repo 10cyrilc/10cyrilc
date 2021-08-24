@@ -1,6 +1,6 @@
-<p align = "center">
+<div align = "center">
  [![image](https://readme-typing-svg.herokuapp.com/?lines=I+am+Cyril+C+Thomas;Welcome+to+my+Github+Profile+......)](https://git.io/typing-svg/)
-</p>
+</div>
 
 <h1 align="center">Hi 👋, I'm Cyril <img height="35" width="30" src="https://emoji.gg/assets/emoji/5591-discord-developer-badge-shimmer.gif"></h1>
 

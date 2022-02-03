@@ -6,13 +6,11 @@
 
 <h1 align="center">Hi 👋, I'm Cyril <img height="35" width="30" src="https://emoji.gg/assets/emoji/5591-discord-developer-badge-shimmer.gif"></h1>
 
-- 🔭 I’m currently working on my **Python Skills**
+- 🔭 I’m currently Developing **Python Skills**
 
-- 🌱 I’m currently learning **Python, HTML5, CSS3 and also C++**
+- 🌱 Other Languages I am Learning are **HTML5, CSS3, JS, C, Java and C++**
 
-- 👯 I’m looking to collaborate on **Telegram based Projects**
-
-- ⚡ What I like to do: **Coding**
+- ⚡ Daily Routine **Eat Sleep Code Repeat**
  
 <h3 align="center">Connect with me:</h3>
 <div align="center">

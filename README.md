@@ -6,9 +6,9 @@
 
 <h1 align="center">Hi 👋, I'm Cyril <img height="35" width="30" src="https://emoji.gg/assets/emoji/5591-discord-developer-badge-shimmer.gif"></h1>
 
-- 🔭 I’m currently Developing **Python Skills**
+- 🔭 I’m mostly Develop in **Python**
 
-- 🌱 Other Languages I am Learning are **HTML5, CSS3, JS, C, Java and C++**
+- 🌱 Other Languages I am Learning are **HTML5, CSS3, JS, C, Java, DART, flutter and Javascript**
 
 - ⚡ Daily Routine **Eat Sleep Code Repeat**
 
@@ -33,6 +33,9 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
+  <a href="https://code.visualstudio.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="git" width="40" height="40"/> 
+  </a>&nbsp;&nbsp;
   <a href="https://www.w3schools.com/html/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   </a>&nbsp;&nbsp;
@@ -50,9 +53,21 @@
   </a>&nbsp;&nbsp;
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a>&nbsp;&nbsp;
+ <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-line.svg" alt="git" width="40" height="40"/> 
+  </a>&nbsp;&nbsp;
+ <a href="https://www.w3schools.com/java/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="git" width="40" height="40"/> 
+  </a>&nbsp;&nbsp;
+ <a href="https://www.w3schools.com/js/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="git" width="40" height="40"/> 
+  </a>&nbsp;&nbsp;
+ <a href="https://www.w3schools.com/jquery/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="git" width="40" height="40"/> 
   </a>
 
 </p>
 
-<h1 align="center">Fav Language</h><br>
+<h1 align="center">Most Used Language</h><br>
 <p align="center"><img height="200" src="https://media4.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif?cid=ecf05e47emkq435k569gj5ng7pzzwagv64na18q70narl9fv&rid=giphy.gif"></p>

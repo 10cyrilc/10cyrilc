@@ -31,7 +31,7 @@
 </p>
 
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Leraning Languages and Tools:</h3>
 <p align="center"> 
   <a href="https://code.visualstudio.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="git" width="40" height="40"/> 

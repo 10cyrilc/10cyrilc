@@ -8,7 +8,7 @@
 
 - 🔭 I mostly Develop in **Python**
 
-- 🌱 Other Languages I am cyrrently Learning are **HTML5, CSS3, JS, C, Java, DART, flutter and Javascript**
+- 🌱 Other Languages I am cyrrently Learning are **HTML5, CSS3, JS, C, Java, DART, flutter and PHP**
 
 - ⚡ Daily Routine **Eat Sleep Code Repeat**
 
@@ -39,27 +39,27 @@
   <a href="https://www.w3schools.com/html/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   </a>&nbsp;&nbsp;
-  <a href="https://www.w3schools.com/css/" target="_blank"> 
+<!--   <a href="https://www.w3schools.com/css/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   </a>&nbsp;&nbsp;
  <a href="https://getbootstrap.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="git" width="40" height="40"/> 
-  </a>&nbsp;&nbsp;
+  </a>&nbsp;&nbsp; -->
   <a href="https://www.python.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a>&nbsp;&nbsp;
-  <a href="https://www.w3schools.com/CPP/default.asp" target="_blank"> 
+<!--   <a href="https://www.w3schools.com/CPP/default.asp" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="linux" width="40" height="40"/> 
   </a>&nbsp;&nbsp;
   <a href="https://ubuntu.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="linux" width="40" height="40"/> 
-  </a>&nbsp;&nbsp;
+  </a>&nbsp;&nbsp; -->
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>&nbsp;&nbsp;
  <a href="https://www.docker.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="git" width="40" height="40"/> 
-  </a>&nbsp;&nbsp;
+<!--   </a>&nbsp;&nbsp;
  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-line.svg" alt="git" width="40" height="40"/> 
   </a>&nbsp;&nbsp;
@@ -71,7 +71,7 @@
   </a>&nbsp;&nbsp;
  <a href="https://www.w3schools.com/jquery/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="git" width="40" height="40"/> 
-  </a>
+  </a> -->
 
 </p>
 

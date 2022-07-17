@@ -8,7 +8,7 @@
 
 - 🔭 I mostly Develop in **Python**
 
-- 🌱 Other Languages I am currently Learning are **HTML5, CSS3, JS, C, Java, DART, flutter and PHP**
+- 🌱 I am currently Learning **reactjs, CSS**
 
 - ⚡ Daily Routine **Eat Sleep Code Repeat**
 

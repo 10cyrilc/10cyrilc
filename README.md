@@ -84,5 +84,5 @@
 
 <p align="center"> 
   <h2>Profile Trophies<br> </h2>
-  <img src="[https://profile-counter.glitch.me/ridsashabbir/count.svg](https://github-profile-trophy.vercel.app/?username=10cyrilc&theme=matrix&column=8&margin-w=15&margin-h=15)" />
+  <img src="https://github-profile-trophy.vercel.app/?username=10cyrilc&theme=matrix&column=8&margin-w=15&margin-h=15" />
   </p>

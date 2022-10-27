@@ -29,6 +29,10 @@
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=10cyrilc&hide=javascript,html,css,scss&theme=react&layout=compact&count_private=true&langs_count=8" /><br><br><br>
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=10cyrilc&hide=prs,issues,contribs&count_private=true&show_icons=true&theme=react&layout=default" />
 </p>
+<p align="center"> 
+  <h2>Profile Views<br> </h2>
+<img src="https://profile-counter.glitch.me/10cyril/count.svg" />
+</p>
 
 
 <h3 align="center">Leraning Languages and Tools:</h3>
@@ -77,3 +81,8 @@
 
 <h1 align="center">Most Used Language</h><br>
 <p align="center"><img height="200" src="https://media4.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif?cid=ecf05e47emkq435k569gj5ng7pzzwagv64na18q70narl9fv&rid=giphy.gif"></p>
+
+<p align="center"> 
+  <h2>Profile Trophies<br> </h2>
+  <img src="[https://profile-counter.glitch.me/ridsashabbir/count.svg](https://github-profile-trophy.vercel.app/?username=10cyrilc&theme=matrix&column=8&margin-w=15&margin-h=15)" />
+  </p>

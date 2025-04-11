@@ -1,88 +1,82 @@
 <div align="center">
- 
-[![image](https://readme-typing-svg.herokuapp.com/?lines=I+am+Cyril+C+Thomas;Welcome+to+my+Github+Profile+......)](https://git.io/typing-svg/)
- 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFDD&center=true&vCenter=true&width=500&lines=Hey,+I'm+Cyril+C+Thomas!;Full-Stack+Developer;Building+Web+%26+Mobile+Apps;Check+Out+My+Work+%3C3" alt="Typing SVG">
 </div>
 
-<h1 align="center">Hi 👋, I'm Cyril <img height="35" width="30" src="https://emoji.gg/assets/emoji/5591-discord-developer-badge-shimmer.gif"></h1>
+---
 
-- 🔭 I mostly Develop in **Python**
+<h1 align="center">👋 Hey There, I'm Cyril! 🚀</h1>
+<p align="center">
+  A <b>Full-Stack Developer</b> crafting seamless web and mobile experiences with <b>Flutter</b>, <b>Next.js</b>, <b>Node.js</b>, and <b>NestJS</b>. Currently coding cool stuff at <b>ITProfound Inc.</b> and always chasing the next big idea! ✨
+</p>
 
-- 🌱 I am currently Learning **reactjs, CSS**
 
-- ⚡ Daily Routine **Eat Sleep Code Repeat**
+---
 
-<br><br><h4>Something That I am Working on:<a href="https://360.10cyrilc.me/home" target="_blank"> Virtual MBC</a></h4>
- 
-<h3 align="center">Connect with me:</h3>
+## 🌟 About Me
+- 💻 **Crafting**: Scalable apps that solve real-world problems.  
+- 🔭 **Working On**: Innovative projects at ITProfound Inc.  
+- 🌱 **Learning**: React.js, TypeScript, and advanced CSS wizardry.  
+- ⚡ **Vibe**: Code hard, debug smart, ship fast!  
+- 📍 **Portfolio**: <a href="https://10cyrilc.in" target="_blank">10cyrilc.in</a>
+
+---
+
+## 🔥 Latest Project
 <div align="center">
+  <h3><a href="https://smart-sentence.10cyrilc.in" target="_blank">Smart Sentence</a></h3>
+  <p>A powerful web tool that helps you perform intelligent string manipulations and analyze text metrics in real-time. Whether you're a writer, developer, or just someone dealing with text, Smart Sentence makes working with strings efficient and enjoyable.
 
-[![image](https://img.shields.io/badge/TELEGRAM-0000FF?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/cyril_c_10/)&nbsp;&nbsp;
-[![image](https://img.shields.io/badge/TWITTER-2cb6e0?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/10cyrilc/)&nbsp;&nbsp;
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:10cyrilc@gmail.com/)&nbsp;&nbsp;
-  
+🌐 [Visit the app →](https://smart-sentence.10cyrilc.in/) ✍️</p>
 </div>
 
+---
 
-
-<p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=10cyrilc&theme=react&layout=compact&count_private=true&langs_count=8" /><br><br><br>
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=10cyrilc&hide=prs,issues,contribs&count_private=true&show_icons=true&theme=react&layout=default" />
-</p>
-<p align="center"> 
-  <h2>Profile Views<br> </h2>
-<img src="https://profile-counter.glitch.me/10cyril/count.svg" />
-</p>
-
-
-<h3 align="center">Leraning Languages and Tools:</h3>
-<p align="center"> 
-  <a href="https://code.visualstudio.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="git" width="40" height="40"/> 
-  </a>&nbsp;&nbsp;
-  <a href="https://www.w3schools.com/html/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a>&nbsp;&nbsp;
-<!--   <a href="https://www.w3schools.com/css/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a>&nbsp;&nbsp;
- <a href="https://getbootstrap.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="git" width="40" height="40"/> 
-  </a>&nbsp;&nbsp; -->
-  <a href="https://www.python.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>&nbsp;&nbsp;
-<!--   <a href="https://www.w3schools.com/CPP/default.asp" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="linux" width="40" height="40"/> 
-  </a>&nbsp;&nbsp;
-  <a href="https://ubuntu.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="linux" width="40" height="40"/> 
-  </a>&nbsp;&nbsp; -->
-  <a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a>&nbsp;&nbsp;
- <a href="https://www.docker.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="git" width="40" height="40"/> 
-<!--   </a>&nbsp;&nbsp;
- <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-line.svg" alt="git" width="40" height="40"/> 
-  </a>&nbsp;&nbsp;
- <a href="https://www.w3schools.com/java/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="git" width="40" height="40"/> 
-  </a>&nbsp;&nbsp;
- <a href="https://www.w3schools.com/js/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="git" width="40" height="40"/> 
-  </a>&nbsp;&nbsp;
- <a href="https://www.w3schools.com/jquery/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="git" width="40" height="40"/> 
-  </a> -->
-
+## 🛠️ Tech Stack
+<p align="center">
+  <a href="https://flutter.dev" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="45" height="45" title="Flutter"/></a>&nbsp;&nbsp;
+  <a href="https://nextjs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="45" height="45" title="Next.js"/></a>&nbsp;&nbsp;
+  <a href="https://nestjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="nestjs" width="45" height="45" title="NestJS"/></a>&nbsp;&nbsp;
+    <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="45" height="45" title="Node.js"/></a>&nbsp;&nbsp;
+  <a href="https://reactjs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="45" height="45" title="React"/></a>&nbsp;&nbsp;
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45" title="Python"/></a>&nbsp;&nbsp;
+  <a href="https://www.typescriptlang.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45" title="TypeScript"/></a>&nbsp;&nbsp;
+  <a href="https://tailwindcss.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="45" height="45" title="Tailwind CSS"/></a>&nbsp;&nbsp;
+  <a href="https://git-scm.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45" title="Git"/></a>&nbsp;&nbsp;
+  <a href="https://www.docker.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="45" height="45" title="Docker"/></a>&nbsp;&nbsp;
+  <a href="https://developer.android.com/studio" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="vscode" width="45" height="45" title="Android Studio"/></a>&nbsp;&nbsp;
+  <a href="https://www.jetbrains.com/webstorm" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webstorm/webstorm-original.svg" alt="vscode" width="45" height="45" title="Web Storm"/></a>&nbsp;&nbsp;
+  <a href="https://code.visualstudio.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45" title="VS Code"/></a>&nbsp;&nbsp;
 </p>
 
-<h1 align="center">Most Used Language</h><br>
-<p align="center"><img height="200" src="https://media4.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif?cid=ecf05e47emkq435k569gj5ng7pzzwagv64na18q70narl9fv&rid=giphy.gif"></p>
+---
 
-<p align="center"> 
-  <h2>Profile Trophies<br> </h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=10cyrilc&theme=matrix&column=8&margin-w=15&margin-h=15" />
-  </p>
+## 📬 Connect with Me
+<p align="center">
+  <a href="https://linkedin.com/in/10cyrilc"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;&nbsp;
+  <a href="https://t.me/cyrilc10"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>&nbsp;&nbsp;
+  <a href="https://x.com/10cyrilc"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>&nbsp;&nbsp;
+  <a href="mailto:10cyrilc@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=10cyrilc&theme=radical&layout=compact&count_private=true&langs_count=8" alt="Top Languages"/>
+  &nbsp;&nbsp;
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=10cyrilc&hide=prs,issues,contribs&count_private=true&show_icons=true&theme=radical" alt="GitHub Stats"/>
+</p>
+
+---
+
+## 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=10cyrilc&theme=onedark&column=7&margin-w=10&margin-h=10" alt="Trophies"/>
+</p>
+
+---
+
+## 👀 Visitors
+<p align="center">
+  <img src="https://profile-counter.glitch.me/10cyril/count.svg" alt="Visitor Count"/>
+</p>
